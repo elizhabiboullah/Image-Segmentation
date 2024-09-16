@@ -1,5 +1,5 @@
 # nvidiaCourses-3-Image-Segmentation-with-TensorFlow
-Third NVIDIA course -- Image Segmentation with TensorFlow
+Third NVIDIA course --- Image Segmentation with TensorFlow
 
   - **Task 1: One Hidden Layer** - Implementation and training of a neural network with a single hidden layer.<br><br>
   	<img src="images/Task 1 - Image 1.png" align="center" width="700"/><br><br>
